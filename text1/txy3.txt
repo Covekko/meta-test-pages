@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User Data Deletion</title>
+</head>
+<body>
+  <h1>User Data Deletion</h1>
+  <p>Contact admin1234@gmail.com to request data deletion.</p>
+</body>
+</html>
